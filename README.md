@@ -1,2 +1,1 @@
-Aggressive C++ coder,
 
