@@ -34,10 +34,17 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/yourusername"><img align="center" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" style="background-color:black; border-radius:50%"/>
+  </a>
 </p>
+
 
 ---
 
