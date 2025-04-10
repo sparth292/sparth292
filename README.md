@@ -1,7 +1,15 @@
 <!-- Banner -->
+<!-- Banner -->
 <h1 align="center">
   Hi 👋, I'm <span style="color:#FFD700;">Parth Salunke</span>
 </h1>
+
+<h3 align="center">🎓 Diploma Engineering Student | 💻 Programmer | 💡 Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Driven+by+curiosity+and+code.;Passionate+about+solving+real-world+problems.;Always+learning+something+new!" alt="Typing SVG" />
+</p>
+
 
 <h3 align="center">🎓 Diploma Engineering Student | 💻 Programmer | 💡 Tech Enthusiast</h3>
 
