@@ -3,8 +3,6 @@
   <img src="https://github.com/sparth292/banner-img/blob/main/github-header-image.png" alt="GitHub Banner" />
 </p>
 
-<h3 align="center">🎓 Diploma Engineering Student | 💻 Programmer | 💡 Tech Enthusiast</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Driven+by+curiosity+and+code.;Passionate+about+solving+real-world+problems.;Always+learning+something+new!" alt="Typing SVG" />
 </p>
