@@ -84,8 +84,4 @@
 
 
 
----
-
-> _“Code is the brush; the world is my canvas. Let’s build something impactful.”_
-
 
