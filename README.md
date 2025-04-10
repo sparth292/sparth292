@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 📍 I'm a **second-year Diploma Engineering student** at K.J. Somaiya Polytechnic, Mumbai  
+- 📍A **Diploma Engineering student** at K.J. Somaiya Polytechnic, Mumbai  
 - 💻 Currently learning **Java**, and building apps with **Dart & Flutter**
 - 🧠 Skilled in **C, C++, HTML, CSS**
 - 🔍 Passionate about solving problems creatively through **programming**
