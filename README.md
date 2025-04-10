@@ -28,7 +28,7 @@
 - 🧠 Skilled in **C, C++, HTML, CSS**
 - 🔍 Passionate about solving problems creatively through **programming**
 - 🚀 Always looking for ways to **push boundaries and contribute to real-world tech projects**
-- ✉️ Reach me at: [your.email@example.com](mailto:parth.salunke@gmail.com)
+- ✉️ Reach me at: [parth.salunke@gmail.com](mailto:parth.salunke@gmail.com)
 
 ---
 
