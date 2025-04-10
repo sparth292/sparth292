@@ -1,8 +1,6 @@
 <!-- Banner -->
 <h1 align="center">
-  <img src="https://img.icons8.com/fluency/48/code.png" width="40"/>
   Hi 👋, I'm <span style="color:#FFD700;">Parth Salunke</span>
-  <img src="https://img.icons8.com/fluency/48/code.png" width="40"/>
 </h1>
 
 <h3 align="center">🎓 Diploma Engineering Student | 💻 Programmer | 💡 Tech Enthusiast</h3>
