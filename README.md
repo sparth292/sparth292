@@ -8,20 +8,6 @@
 
 ---
 
-<!-- Profile Stats + Trophy -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub followers" />
-</p>
-
-<!-- GitHub Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&margin-w=15&row=1&column=7" />
-</p>
-
-
----
-
 ## 🧠 About Me
 
 - 📍 I'm a **second-year Diploma Engineering student** at K.J. Somaiya Polytechnic, Mumbai  
