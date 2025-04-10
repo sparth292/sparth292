@@ -11,17 +11,6 @@
 
 ---
 
-## 🧠 About Me
-
-- 📍A **Diploma Engineering student** at K.J. Somaiya Polytechnic, Mumbai  
-- 💻 Currently learning **Java**, and building apps with **Dart & Flutter**
-- 🧠 Skilled in **C, C++, HTML, CSS**
-- 🔍 Passionate about solving problems creatively through **programming**
-- 🚀 Always looking for ways to **push boundaries and contribute to real-world tech projects**
-- ✉️ Reach me at: [your.email@example.com](mailto:parth.salunke@gmail.com)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sparth292&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/sparth292?label=Followers&style=social" alt="GitHub followers" />
@@ -31,6 +20,17 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sparth292&theme=darkhub&margin-w=15&row=1&column=7" />
 </p>
+
+---
+
+## 🧠 About Me
+
+- 📍A **Diploma Engineering student** at K.J. Somaiya Polytechnic, Mumbai  
+- 💻 Currently learning **Java**, and building apps with **Dart & Flutter**
+- 🧠 Skilled in **C, C++, HTML, CSS**
+- 🔍 Passionate about solving problems creatively through **programming**
+- 🚀 Always looking for ways to **push boundaries and contribute to real-world tech projects**
+- ✉️ Reach me at: [your.email@example.com](mailto:parth.salunke@gmail.com)
 
 ---
 
