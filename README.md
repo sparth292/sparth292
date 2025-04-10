@@ -1,7 +1,8 @@
 <!-- Banner -->
-<h1 align="center">
+[<h1 align="center">
   Hi 👋, I'm <span style="color:#FFD700;">Parth Salunke</span>
-</h1>
+</h1>](https://raw.githubusercontent.com/sparth292/banner-img/main/github-header-image.png
+)
 
 <h3 align="center">🎓 Diploma Engineering Student | 💻 Programmer | 💡 Tech Enthusiast</h3>
 
