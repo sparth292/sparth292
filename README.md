@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/sparth292/banner-img/main/github-header-image.png](https://github.com/sparth292/banner-img/blob/main/github-header-image.png)" alt="GitHub Banner" />
+  <img src="https://github.com/sparth292/banner-img/blob/main/github-header-image.png" alt="GitHub Banner" />
 </p>
 
 <h3 align="center">🎓 Diploma Engineering Student | 💻 Programmer | 💡 Tech Enthusiast</h3>
