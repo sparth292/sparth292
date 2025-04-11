@@ -21,18 +21,18 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 📍A **Diploma Engineering student** at K.J. Somaiya Polytechnic, Mumbai  
-- 💻 Currently learning **Java**, and building apps with **Dart & Flutter**
-- 🧠 Skilled in **C, C++, HTML, CSS**
-- 🔍 Passionate about solving problems creatively through **programming**
-- 🚀 Always looking for ways to **push boundaries and contribute to real-world tech projects**
-- ✉️ Reach me at: [parth.salunke@gmail.com](mailto:parth.salunke@gmail.com)
+-  A **Diploma Engineering student** at K.J. Somaiya Polytechnic, Mumbai  
+-  Currently learning **Java**, and building apps with **Dart & Flutter**
+-  Skilled in **C, C++, HTML, CSS**
+-  Passionate about solving problems creatively through **programming**
+-  Always looking for ways to **push boundaries and contribute to real-world tech projects**
+-  Reach me at: [parth.salunke@gmail.com](mailto:parth.salunke@gmail.com)
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/yourlinkedin" target="_blank" style="text-decoration: none;">
@@ -50,7 +50,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+##  Languages and Tools
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
@@ -66,7 +66,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sparth292&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
@@ -76,7 +76,7 @@
 
 ---
 
-## ⏳ GitHub Streak
+##  GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sparth292&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
