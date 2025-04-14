@@ -64,23 +64,10 @@
 </p>
 
 
----
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sparth292&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparth292&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 
----
 
-##  GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sparth292&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
 
 
 
