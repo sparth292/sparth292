@@ -21,17 +21,6 @@
 
 ---
 
-##  About Me
-
--  A **Diploma Engineering student** at K.J. Somaiya Polytechnic, Mumbai  
--  Currently learning **Java**, and building apps with **Dart & Flutter**
--  Skilled in **C, C++, HTML, CSS**
--  Passionate about solving problems creatively through **programming**
--  Always looking for ways to **push boundaries and contribute to real-world tech projects**
--  Reach me at: [parth.salunke@gmail.com](mailto:parth.salunke@gmail.com)
-
----
-
 ##  Connect with Me
 
 <p align="left">
