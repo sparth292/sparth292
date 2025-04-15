@@ -13,8 +13,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sparth292&theme=darkhub&margin-w=15&row=1&column=7" />
 </p>
 
----
-
 ##  Connect with Me
 
 <p align="left">
@@ -28,10 +26,6 @@
     <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" style="display:inline-block; background-color:black; border-radius:50%;"/>
   </a>
 </p>
-
-
-
----
 
 ##  Languages and Tools
 
