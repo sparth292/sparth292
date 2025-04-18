@@ -30,10 +30,10 @@
   <a href="https://stackoverflow.com/users/30311240/parth-salunke" target="_blank" style="text-decoration: none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="48" height="48" style="display:inline-block; margin-right:10px;" />
 </a>
-
-  <a href="https://x.com/paajinextdoor" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" alt="X" width="48" height="48" style="margin-right:10px;" />
+<a href="https://x.com/paajinextdoor" target="_blank" style="text-decoration: none;">
+  <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" style="display:inline-block; margin-right:10px;"/>
 </a>
+
 
 
 
