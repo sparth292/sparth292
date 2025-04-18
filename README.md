@@ -33,8 +33,9 @@
 
 </a>
   <a href="https://x.com/paajinextdoor" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" alt="X" width="48" height="48" style="margin-right:10px;" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/x.png" alt="X" style="margin-right:10px;" />
 </a>
+
 
 
 </p>
