@@ -28,7 +28,9 @@
     <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" style="display:inline-block; background-color:black; border-radius:50%;"/>
   </a>
   <a href="https://stackoverflow.com/users/30311240/parth-salunke" target="_blank" style="text-decoration: none;">
-  <img src="https://img.icons8.com/color/48/000000/stack-overflow.png" alt="Stack Overflow" style="display:inline-block; margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="48" height="48" style="display:inline-block; margin-right:10px;" />
+</a>
+
 </a>
   <a href="https://x.com/paajinextdoor" target="_blank" style="text-decoration: none;">
   <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" style="display:inline-block; margin-right:10px;"/>
