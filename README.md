@@ -9,9 +9,6 @@
 </p>
 
 <!-- GitHub Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sparth292&theme=darkhub&margin-w=15&row=1&column=7" />
-</p>
 
 <br>
 
