@@ -49,8 +49,8 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
   <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/>
-  
-
+  <img src="https://img.icons8.com/color/48/000000/rust-programming-language.png" alt="Rust"/>
+  <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang"/>  
 </p>
 
 
