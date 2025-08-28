@@ -8,9 +8,6 @@
   <img src="https://img.shields.io/github/followers/sparth292?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
-<!-- GitHub Trophy -->
-
-<br>
 
 ##  Connect with Me
 
