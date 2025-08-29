@@ -3,6 +3,9 @@
   <img src="https://github.com/sparth292/banner-img/blob/main/githubHeader.png" alt="GitHub Banner" />
 </p>
 
+![banner](https://capsule-render.vercel.app/api?type=waving&height=200&text=Heyyy%20I%27m%20Parth!&fontSize=44&fontAlign=50&fontAlignY=40&color=0:4facfe,100:00f2fe&fontColor=ffffff&animation=fadeIn&desc=Rustacean%20🦀%20%7C%20Go%20Gopher%20🐹%20%7C%20Flutter%20Dev&descAlign=50&descAlignY=65)
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sparth292&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/sparth292?label=Followers&style=social" alt="GitHub followers" />
