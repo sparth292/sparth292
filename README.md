@@ -2,8 +2,6 @@
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=200&text=Heyyy%20I%27m%20Parth!&fontSize=44&fontAlign=50&fontAlignY=40&color=0:4facfe,100:00f2fe&fontColor=ffffff&animation=fadeIn&desc=&descAlignY=65)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=parth&theme=algolia&no-frame=true&row=1&column=7)
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sparth292&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
