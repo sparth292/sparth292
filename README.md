@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://github.com/sparth292/banner-img/blob/main/githubHeader.png" alt="GitHub Banner" />
-</p>
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=200&text=Heyyy%20I%27m%20Parth!&fontSize=44&fontAlign=50&fontAlignY=40&color=0:4facfe,100:00f2fe&fontColor=ffffff&animation=fadeIn&desc=&descAlignY=65)
 
