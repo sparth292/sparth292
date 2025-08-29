@@ -10,6 +10,9 @@
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hatake%20Kakashi&fontSize=44&fontAlign=50&fontAlignY=40&color=0:4facfe,100:00f2fe&fontColor=ffffff&animation=fadeIn&desc=Rust%20%7C%20Go%20%7C%20Flutter&descAlign=50&descAlignY=65)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=नमस्ते!+I'm+Kakashi;Rustacean+🦀;Go+%2B+Flutter+dev;Open+to+collab)](https://git.io/typing-svg)
+
+
 
 ##  Connect with Me
 
