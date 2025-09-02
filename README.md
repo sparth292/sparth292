@@ -33,30 +33,6 @@
 
 
 
-</p>
-
-##  Languages and Tools
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/material-outlined/48/ffffff/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/ios-filled/50/4479A1/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
-  <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/>
-  <img src="https://img.icons8.com/color/48/000000/rust-programming-language.png" alt="Rust"/>
-  <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang"/>  
-</p>
-
-
-
 
 
 
