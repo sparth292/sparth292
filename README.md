@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/parth-salunke.gif" width="900">
+  <img src="matrix.gif" width="900">
 </p>
 <!-- Profile Stats -->
 <br>
