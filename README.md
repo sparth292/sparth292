@@ -1,5 +1,5 @@
 
-  <img src="matrix.gif" width="900" height="300">
+  <img src="cropped.gif" width="900" height="300">
 
 
 <p align="center">
