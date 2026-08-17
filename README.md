@@ -3,7 +3,7 @@
 
 <!-- Animated Wordmark -->
 <p align="center">
-  <img src="./assets/wordmark.gif" alt="Animated wordmark" width="700"/>
+  <img src="wordmark.gif" alt="Animated wordmark" width="700"/>
 </p>
 
 <!-- Profile Stats -->
