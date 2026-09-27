@@ -1,2 +1,3 @@
-
-  <img src="header (1)" width="900" height="300">
+<p align="center">
+  <img src="./header (1).svg" width="100%" />
+</p>
